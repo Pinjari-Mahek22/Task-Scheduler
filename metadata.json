@@ -1,0 +1,6 @@
+{
+  "name": "EnggNexus - Student Academic & Placement Hub",
+  "description": "Comprehensive engineering student portal featuring class timetable management, assignment deadline tracking with calendar sync, placement prep roadmap, interactive ATS resume builder, hackathon radar, peer notes exchange forum, Pomodoro study room, and AI career coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
